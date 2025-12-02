@@ -1,0 +1,155 @@
+---
+title: Publications and Conferences 
+---
+
+# Publications
+
+## Explainable Machine Learning-Based Alzheimer's Disease Prediction  
+*(Springer, 2025 — First Author)*
+
+<div class="link-card" onclick="window.open('https://link.springer.com/chapter/10.1007/978-3-031-85908-3_17', '_blank');">
+  <h3 style="margin-top:0;">Explainable Machine Learning-Based Alzheimer's Disease Prediction</h3>
+  <p>Springer · Conference publication following CSCE'24 presentation.</p>
+  <p style="color:#0d6efd;">🔗 View Publication</p>
+</div>
+
+This work, presented at **CSCE'24** in Las Vegas and conducted with Prof. Gideon Gogovi, explores how handwriting analytics can support early Alzheimer’s detection.  
+We identified key handwriting-based features with strong predictive value, demonstrating handwriting's potential as a non-invasive biomarker.  
+I am proud to be the **first author** of this publication.
+
+---
+
+## Writing the Signs: An Explainable Machine Learning Approach for Alzheimer's Disease Classification from Handwriting  
+*(IET Healthcare Technology Letters - Co-Author)*
+
+<div class="link-card" onclick="window.open('https://digital-library.theiet.org/content/journals/10.1049/htl2.12158', '_blank');">
+  <h3 style="margin-top:0;">Writing the Signs</h3>
+  <p>IET Healthcare Technology Letters · 2025</p>
+  <p style="color:#0d6efd;">🔗 Read the Paper</p>
+</div>
+
+This publication shows how machine learning applied to handwriting tasks can support early Alzheimer’s classification.  
+Our analysis highlights features such as **cognitive processing speed** and **recall confidence** that strongly contribute to model performance.  
+Co-authored with **Gideon Gogovi** and **Maeve Ho**, with support from the **Lehigh University College of Health**.
+
+---
+
+## Faculty-Driven Student Engagement in Community-Engaged Projects: An Undergraduate Perspective  
+*(Journal of Community Engagement and Scholarship — Co-Author)*
+
+<div class="link-card" onclick="window.open('https://lnkd.in/eXDTa5HZ', '_blank');">
+  <h3 style="margin-top:0;">Faculty-Driven Student Engagement in Community-Engaged Projects</h3>
+  <p>Journal of Community Engagement and Scholarship</p>
+  <p style="color:#0d6efd;">🔗 Read the Article</p>
+</div>
+
+Co-authored with Sofía Espinoza Hernández and Nandini Yellamelli, this article emphasizes the importance of empowering students in community-engaged initiatives.  
+We highlight strategies for fostering inclusive, asset-based learning environments and supporting long-term community impact driven by student involvement.
+
+---
+
+<style>
+.link-card {
+  border: 1px solid #dcdcdc;
+  padding: 18px 22px;
+  border-radius: 12px;
+  background: #fafafa;
+  cursor: pointer;
+  margin-bottom: 15px;
+  transition: background 0.25s, box-shadow 0.25s;
+}
+.link-card:hover {
+  background: #f0f0f0;
+  box-shadow: 0px 2px 8px rgba(0,0,0,0.1);
+}
+</style>
+---
+
+
+# Conferences
+
+## Annual Biomedical Research Conference for Minoritized Scientists (ABRCMS), 2024
+
+<div class="conf-card">
+  <img src="ABRCMS.jpg.gif" alt="ABRCMS 2024" style="width:100%; border-radius:10px; margin-bottom:10px;">
+  <h3 style="margin-top:0;">ABRCMS 2024 – Poster Presentation</h3>
+  <p><strong>Title:</strong> Technologies for Transition: A Survey of Assistive Technologies for Individuals with Autism Spectrum Disorder (ASD) During the Transition to Adulthood</p>
+</div>
+
+At ABRCMS 2024, I presented research on how assistive technologies can support adolescents and young adults with ASD as they navigate key life transitions such as higher education, employment, and independent living.  
+This work was supported by mentors including **Dr. Neal Simon**, **Dr. Ware**, **Prof. Fathima Wakeel**, and **Prof. Vinod Namboodiri**, and highlighted the importance of improving resources and systems for neurodivergent individuals while advancing diversity and inclusion in STEM.
+
+---
+
+## World Congress in Computer Science, Computer Engineering, & Applied Computing (CSCE'24) – HIMS'24, 2024
+
+<div class="conf-card">
+  <img src="CSC.gif" alt="CSCE'24 / HIMS'24" style="width:100%; border-radius:10px; margin-bottom:10px;">
+  <h3 style="margin-top:0;">CSCE'24 – 10th International Conference on Health Informatics & Medical Systems (HIMS'24)</h3>
+  <p><strong>Presentation:</strong> Explainable Machine Learning-Based Alzheimer's Disease Prediction</p>
+</div>
+
+At **CSCE'24** in Las Vegas, I presented our work on leveraging handwriting data and explainable machine learning models for early detection of Alzheimer’s disease.  
+In collaboration with **Prof. Gideon Gogovi**, we demonstrated how handwriting-derived features can serve as promising, non-invasive markers for early AD screening and personalized intervention strategies.  
+This research was supported by the **Lehigh University College of Health** and the **Dean of Students**, and has been published by **Springer**.
+
+---
+
+## Lehigh University College of Health Research Symposium (2022–2024) & STEM-SI Program 2024
+
+<div class="conf-card">
+  <img src="StemSi.jpg.gif" alt="Lehigh College of Health Research Symposium" style="width:100%; border-radius:10px; margin-bottom:10px;">
+  <h3 style="margin-top:0;">College of Health Research Symposia & STEM-SI Program</h3>
+  <p><strong>Presentations:</strong> Assistive Technologies for ASD & Global Health/Community-Engaged Projects</p>
+</div>
+
+Across multiple years (2022–2024), I presented research at the **Lehigh University College of Health Research Symposium**, including work on assistive technologies for individuals with ASD and community-engaged health projects.  
+As part of the **STEM-SI program**, I conducted a comprehensive review of assistive technologies supporting transition-age individuals with ASD and learned about the **CityGuide** assistive technology system, which supports indoor navigation for individuals with disabilities.  
+These experiences strengthened my interests in global health, disability, and technology-driven solutions.
+
+---
+
+## Global Health Learning Lab, Lehigh Valley Health Network, 2022
+
+<div class="conf-card">
+  <img src="globallearning.jpeg" alt="Global Health Learning Lab 2022" style="width:100%; border-radius:10px; margin-bottom:10px;">
+  <h3 style="margin-top:0;">Global Health Learning Lab – Lehigh Valley Health Network</h3>
+  <p><strong>Topic:</strong> Healthcare Disparities and the Health System in Sierra Leone</p>
+</div>
+
+As part of the **Global Social Impact Fellowship (ASTIA)**, I contributed to a Global Health Learning Lab session for resident physicians at Lehigh Valley Health Network.  
+I presented on healthcare disparities and the structure of the health system in **Sierra Leone**, drawing on fieldwork focused on autism screening and community perceptions of disability.  
+This work was closely linked to our efforts to develop culturally appropriate autism screening tools for West African communities.
+
+---
+
+## Engagement Scholarship Consortium (ESC), 2022
+
+<div class="conf-card">
+  <img src="ESC.jpeg" alt="Engagement Scholarship Consortium 2022" style="width:100%; border-radius:10px; margin-bottom:10px;">
+  <h3 style="margin-top:0;">Engagement Scholarship Consortium (ESC), 2022</h3>
+  <p><strong>Poster Presentation:</strong> Autism Screening and Training in Africa (ASTIA)</p>
+</div>
+
+At the **Engagement Scholarship Consortium (ESC) 2022**, I presented a poster on the **Autism Screening and Training in Africa (ASTIA)** project, highlighting strategies for proactive community engagement and partner involvement in research.  
+Our work emphasized building sustainable, equitable partnerships, elevating local perspectives on disability, and designing tools that are both scientifically rigorous and culturally grounded.
+
+---
+
+<style>
+.conf-card {
+  border: 1px solid #dcdcdc;
+  padding: 18px 22px;
+  border-radius: 12px;
+  background: #fafafa;
+  margin-bottom: 20px;
+  transition: background 0.25s, box-shadow 0.25s;
+}
+.conf-card:hover {
+  background: #f0f0f0;
+  box-shadow: 0px 2px 8px rgba(0,0,0,0.1);
+}
+</style>
+
+
+

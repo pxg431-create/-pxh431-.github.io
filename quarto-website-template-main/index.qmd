@@ -1,0 +1,23 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image1.jpg"
+  links:
+    - icon: linkedin
+      href: https://www.linkedin.com/in/paulinagonzalezo/
+    - icon: envelope
+      aria-label: email
+      href: "mailto:pxg431@case.edu"
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+Hi! I’m Paulina Gonzalez, a first-year PhD student in Epidemiology and Biostatistics at Case Western Reserve University. I graduated with High Honors from Lehigh University in May 2025 with a Bachelor of Science in Population Health and minors in Biostatistics and Probability & Statistics.
+
+My work centers on population health, statistical methods, and the genetics and epigenetics of Alzheimer’s disease. I’m passionate about using rigorous, reproducible data science to address real-world public health challenges and improve health outcomes in diverse, underserved communities.
+
+

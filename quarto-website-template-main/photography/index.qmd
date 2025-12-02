@@ -1,0 +1,70 @@
+---
+title: "Experience"
+---
+
+
+# Experience
+
+## Internship Experience
+
+### Public Health Intern — Program for Appropriate Technologies in Health (PATH)  
+**Geneva, Switzerland · February–May 2025**
+- Forecasted demand and identified target pricing for essential maternal health medications, including Tranexamic Acid and Misoprostol.  
+- Developed a **CatBoost-based machine learning pipeline** to predict antibiotic prescription and delayed hospitalization using TIMCI pediatric health data.  
+- Addressed **extreme class imbalance** and **facility-level clustering**, and engineered complex clinical outcome features to improve model performance.
+
+---
+
+## Research Experience
+
+### AI Research Assistant — Interpretable Machine Learning & Public Health  
+**Bethlehem, PA · January 2024 – June 2025**
+- Built predictive models in Python for **non-invasive Alzheimer’s detection**, applying eXplainable AI (XAI) methods for model transparency and interpretability (DARWIN dataset).  
+- Analyzed large-scale datasets from **NACC** and **ADNI** to identify key biomarkers and improve diagnostic tools for Alzheimer’s disease.
+
+### Qualitative Research Assistant — Center for Gender Equity  
+**Bethlehem, PA · August 2023 – May 2025**
+- Co-designed the *Culture and Postpartum Experiences Interview Study* with Fauzia Saiyed, PhD, from proposal development through IRB approval and manuscript drafting.  
+- Led participant recruitment, conducted interviews, performed transcription, and engaged in grounded theory–based analysis.
+
+### Technology Research Assistant — Assistive Technology for Autism / CityGuide App  
+**Bethlehem, PA · August – December 2024**
+- Designed and analyzed a user satisfaction survey targeting Mobile and Pervasive Assistive Technologies (MPATs).  
+- Supported pilot testing of **CityGuide**, a beacon-based indoor navigation system for individuals with disabilities.
+
+### STEM-SI Research Fellow — Lehigh University  
+**Bethlehem, PA · May – August 2024**
+- Conducted a comprehensive literature review on assistive technologies supporting transition-age individuals with Autism Spectrum Disorder (ASD).  
+- Gained cross-disciplinary experience in disability research, public health, and human-centered technology development.
+
+### Quantitative Research Assistant — Pennsylvania SDOH Data Index Project  
+**Bethlehem, PA · September 2022 – May 2023**
+- Developed a community-level data repository tracking infections and chronic diseases using statewide SDOH indicators.  
+- Supported analyses to guide public health priorities and inform policy.
+
+### Global Social Impact Fellow — Autism Screening and Training in Africa (ASTIA)  
+**Bethlehem, PA & Sierra Leone · January – December 2022**
+- Co-developed the **first culturally adapted autism screening tool** for West Africa.  
+- Conducted 140+ interviews and focus groups with caregivers, teachers, and health workers during fieldwork in Sierra Leone.  
+- Managed qualitative data for meta-synthesis and manuscript preparation.  
+- Presented on healthcare disparities and the Sierra Leone health system at the **Global Health Learning Lab (LVHN)** and **Engagement Scholarship Consortium (ESC)**.
+
+---
+
+## Teaching Experience
+
+### Teaching Assistant — Creative Inquiry Program, Lehigh University  
+**Bethlehem, PA · January – December 2023**
+- Mentored interdisciplinary student teams working on global social impact and community-engaged projects.  
+- Supported proposal writing, grant development, conference submissions, and manuscript reviews.  
+- Evaluated student work related to financial planning, sustainability, and long-term project development.
+
+---
+
+## Study Abroad
+
+### CIEE Summer Comparative Public Health Systems II & III  
+**June – August 2023**
+- Studied international health systems through coursework and immersive field experiences.  
+- Gained comparative insights into global health governance, health equity, and policy design.
+
